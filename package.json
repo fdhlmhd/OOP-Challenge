@@ -1,0 +1,20 @@
+{
+  "name": "oop-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "fadhel muhammad",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
